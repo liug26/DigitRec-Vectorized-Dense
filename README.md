@@ -25,4 +25,4 @@ Kaiming initialization and adam optimization are implemented to speed up trainin
   test result: 5482 out of 5640 times (0.9719858156028369)
 
 ## Contact
-Any critique on my code is welcome. My email is liug22@hotmail.com
+Any critique is welcomed. My email is liug22@hotmail.com
