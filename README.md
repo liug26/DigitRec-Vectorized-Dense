@@ -1,7 +1,7 @@
 # Digit Recognition w/ Dense Layers from Scratch
 
 ## Summary
-The contained python files provide a framework to implement a dense-layer neural network that recognizes hand-written digits. I incorporated gradient descent, l2 regularization, dropout regularization, adam optimization into the framework. All parameters are vectorized, so training is decently fast. My own implementation results in a roughly 97% dev set accuracy network. 
+The contained python files provide a simple framework to implement and train a dense-layer neural network that recognizes hand-written digits. The framework is written from scratch (no TensorFlow, only NumPy and Pandas). I incorporated gradient descent, l2 regularization, dropout regularization, adam optimization into the framework. All parameters are vectorized, so training is decently fast. My own implementation results in a roughly 97% dev set accuracy network. 
 
 ## Structure
 main.py -- where the main method is stored and where training/testing is called. 
